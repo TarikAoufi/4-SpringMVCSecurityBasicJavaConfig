@@ -16,8 +16,8 @@ public class MainController {
 	@RequestMapping(value="/admin", method = RequestMethod.GET)
 	public ModelAndView visitAdmin() {
 		ModelAndView model = new ModelAndView("admin");
-		model.addObject("title", "Admministrator Control Panel");
-		model.addObject("message", "This page demonstrates how to use Spring security.");
+		model.addObject("title", "Administrator home page");
+		model.addObject("message", "You have been successfully logged in.");
 		
 		return model;
 	}

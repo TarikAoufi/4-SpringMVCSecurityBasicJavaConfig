@@ -5,12 +5,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Spring Security Basic Demo (Java Config)</title>
+<title>Spring MVC Security Basic Demo - Java Configuration</title>
 </head>
 <body>
 	<div align="center">
-		<h1>Spring Security Basic Demo (Java Config)</h1>
-		<a href="admin">Go to Administrator Page</a>
+		<h1>Spring MVC Security Basic Demo - Java Configuration</h1>
+		<h3><a href="admin">Go to Login Page</a></h3>
 	</div>
 </body>
 </html>
