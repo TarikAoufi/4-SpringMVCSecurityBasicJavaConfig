@@ -1,4 +1,4 @@
-package fr.aoufi.springsecurity;
+package fr.aoufi.springsecurity.config;
 
 import org.springframework.security.web.context.AbstractSecurityWebApplicationInitializer;
 

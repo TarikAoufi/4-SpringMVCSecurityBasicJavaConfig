@@ -1,4 +1,4 @@
-package fr.aoufi.springsecurity;
+package fr.aoufi.springsecurity.config;
 
 import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
@@ -11,7 +11,7 @@ import org.springframework.web.servlet.DispatcherServlet;
 /**
  * Spring Web MVC Security Java-based Config Demo Project.
  * 
- * @author AOUFI
+ * @author AOUFI 
  *
  */
 public class SpringWebAppInitializer implements WebApplicationInitializer {

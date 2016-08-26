@@ -1,4 +1,4 @@
-package fr.aoufi.springsecurity;
+package fr.aoufi.springsecurity.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
